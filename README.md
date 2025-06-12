@@ -1,4 +1,5 @@
-# Soha-game-source-code_Zhajinhua-game
+# Stud game  梭哈游戏源码
+  
 梭哈游戏，炸金花游戏，代码稳定，产品品质优良。tg：@alibabama401或邮箱：ttpoker40@gmail.com
 
 ![梭哈牌局UI-01](https://github.com/user-attachments/assets/47e43a6b-9657-4009-b0d7-9cdb6f3796bb)
