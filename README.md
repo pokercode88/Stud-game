@@ -1,4 +1,4 @@
-# Stud game  梭哈游戏源码
+# Stud game  梭哈游戏源码  客户端cocos+erlong服务器
   
 梭哈游戏，炸金花游戏，代码稳定，产品品质优良。tg：@alibabama401或邮箱：ttpoker40@gmail.com
 
